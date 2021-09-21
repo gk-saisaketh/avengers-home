@@ -1,0 +1,91 @@
+body{
+    background-color: #161a1d;
+    font-family: 'Play', sans-serif;;
+}
+
+#mainnavbar .navbar-brand{
+    color: red;
+    font-size: 2rem;
+    
+}
+#mainnavbar{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+#mainnavbar .nav-link{
+    color: white;
+                                                                                                   
+}
+#mainnavbar .nav-link:hover{
+    color: red;
+
+}
+#ironman{
+    margin-top: 70px;
+    
+
+}
+
+#headinggroup span{
+    color: blueviolet;
+}
+#headinggroup h1 {
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+@media (max-width:1100px){
+    #headinggroup h1 {
+        font-weight: 100;
+        font-size: 2.5rem;
+    }
+
+}
+#ironman{
+    margin-top:50px;
+}
+#ironmanlogo{
+    width: 60px;
+    height: 60px;
+}
+h2{
+    color: white;
+    font-weight: 100;
+    font-size: 2rem;
+}
+.blurb{
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+    
+}
+#iron span{
+    color: red;
+}
+.content{
+    margin-top: 100px;
+
+}
+.navbar.scrolled{
+    background-color: #7209b7;
+    transition: background 0.8s;
+    
+}
+
+#thor span{
+    color: gold;
+}
+#doctor span{
+    color:greenyellow ;
+}
+#doctorimg{
+    margin-left: 30px;
+}
+#irontxt{
+    color: red;
+}
+#thortxt{
+    color: gold;
+}
+#doctortxt{
+    color: greenyellow;
+}
